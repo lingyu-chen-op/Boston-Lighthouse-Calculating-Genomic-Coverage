@@ -26,7 +26,7 @@
     - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
     
   - Runtime: \
-    <img src="solution2.png">
+    <img src="solution2_runtime.png">
 
 
 ### 3. Solution 2 Optimization : Memorized Frequency Dictionary
@@ -43,4 +43,4 @@
     - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
     
   - Runtime: \
-    <img src="solution2_optimized.png">
+    <img src="solution2_optimized_runtime.png">
