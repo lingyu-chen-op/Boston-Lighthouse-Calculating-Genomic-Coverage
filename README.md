@@ -43,7 +43,7 @@
      - Appending coverages:
         - time: O(M)
         - space: O(M) 
-    - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
+    - Where M is the length of "loci.csv", N is the length of "reads.csv", maximum & minimum are max position and min positions appeared.
     
   - Runtime: \
     <img src="solution2_optimized_runtime.png">
