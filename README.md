@@ -25,7 +25,7 @@
         - space: O(M) 
     - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
     
-  - Runtime: 
+  - Runtime: \
     <img src="solution2.png">
 
 
@@ -42,5 +42,5 @@
         - space: O(maximum - minimum) 
     - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
     
-  - Runtime: 
+  - Runtime: \
     <img src="solution2_optimized.png">
