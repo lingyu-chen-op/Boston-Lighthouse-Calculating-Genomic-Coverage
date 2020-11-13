@@ -40,6 +40,9 @@
      - Filling dictionary from minimum to maximum  :
         - time: O(maximum - minimum) 
         - space: O(maximum - minimum) 
+     - Appending coverages:
+        - time: O(M)
+        - space: O(M) 
     - Where M is the length of "loci.csv", N is the length of "reads.csv", L is the average length of intervals
     
   - Runtime: \
